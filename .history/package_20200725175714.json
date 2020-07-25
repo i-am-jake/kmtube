@@ -1,0 +1,8 @@
+{
+  "name": "02.-youtube_clone",
+  "version": "1.0.0",
+  "description": "Cloning Youtube with Vanilla and Node JS",
+  "main": "index.js",
+  "author": "KIM KANG MIN",
+  "license": "ISC"
+}

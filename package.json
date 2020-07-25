@@ -1,0 +1,10 @@
+{
+  "name": "youtube_clone",
+  "version": "1.0.0",
+  "description": "Cloning Youtube with Vanilla and Node JS",
+  "main": "index.js",
+  "author": "KIM KANG MIN",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
